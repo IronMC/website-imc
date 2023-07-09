@@ -17,7 +17,6 @@ p {
     text-align: center;
     font-size: 23px;
 }
-.releases {}
 .releases1 {
     font-family: 'Poppins', sans-serif;
     text-align: center;
@@ -26,7 +25,7 @@ p {
 html {
     scroll-behavior: smooth;
 }
-.button {
+.releasesbutton {
     border: none;
     color: white;
     padding: 15px 32px;
