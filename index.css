@@ -4,5 +4,5 @@ h1 {
 }
 body {
     background: rgba(166, 194, 192, 1.0);
-    background: linear-gradient(315deg, rgba(166, 194, 192, 1.0), rgba(204, 80, 94, 1.0));
+    background-image: linear-gradient(to right, rgba(166, 194, 192, 1.0), rgba(204, 80, 94, 1.0));
 }
