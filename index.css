@@ -1,4 +1,4 @@
-h1 {
+h1.title {
     font-family: 'Poppins', sans-serif;
     text-align: center;
     font-size: 40px;
@@ -17,3 +17,12 @@ p {
     text-align: center;
     font-size: 23px;
 }
+div.releases {}
+h1.releases1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+html {
+    scroll-behavior: smooth;
+   }
